@@ -1,6 +1,4 @@
 # <img src="https://user-images.githubusercontent.com/64004682/158750495-ec07c529-8c7a-4834-a1ff-46a29b04941e.png" alt="icon" width="30"/> ImageReader
-Компьютерная графика. Лабораторная работа №2. Чтение информации из графических файлов.
-
 
 ## Description
 Windows app that finds graphic files in specified folder and reads basic image information: 
