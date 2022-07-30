@@ -11,7 +11,7 @@ Windows app that finds graphic files in specified folder and reads basic image i
 
 Processed formats: jpg, gif, tif, bmp, png, pcx.
 
-## Realisation
+## Usage
 </p>
 <p align="center">
   <kbd> <img alt="ImageReader_gif" src="https://user-images.githubusercontent.com/64004682/158750565-37bafcc7-b5b5-4a9c-a04b-37b8caf11533.gif"" width="100%" style="border-radius:10px"\></kbd> 
