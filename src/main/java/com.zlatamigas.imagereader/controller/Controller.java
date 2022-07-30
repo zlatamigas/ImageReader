@@ -1,5 +1,7 @@
-package sample.controller;
+package com.zlatamigas.imagereader.controller;
 
+import com.zlatamigas.imagereader.entity.ImageTableInfo;
+import com.zlatamigas.imagereader.service.ImageInfoManager;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -9,15 +11,13 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.Stage;
-import sample.entity.ImageTableInfo;
-import sample.service.ImageInfoManager;
 
 import java.io.File;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
 
-public class ImageInfoController implements Initializable {
+public class Controller implements Initializable {
 
     private static final String FILE_COUNT = "Files count: ";
     private static final String FILE_SIZE = "Total size: ";

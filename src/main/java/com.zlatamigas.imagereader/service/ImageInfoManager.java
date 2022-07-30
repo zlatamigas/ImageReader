@@ -1,5 +1,6 @@
-package sample.service;
+package com.zlatamigas.imagereader.service;
 
+import com.zlatamigas.imagereader.entity.ImageTableInfo;
 import org.apache.commons.imaging.ImageInfo;
 import org.apache.commons.imaging.ImageParser;
 import org.apache.commons.imaging.ImageReadException;
@@ -9,7 +10,6 @@ import org.apache.commons.imaging.formats.jpeg.JpegImageParser;
 import org.apache.commons.imaging.formats.pcx.PcxImageParser;
 import org.apache.commons.imaging.formats.png.PngImageParser;
 import org.apache.commons.imaging.formats.tiff.TiffImageParser;
-import sample.entity.ImageTableInfo;
 
 import java.io.File;
 import java.io.IOException;

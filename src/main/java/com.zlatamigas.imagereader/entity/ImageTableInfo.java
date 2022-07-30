@@ -1,4 +1,4 @@
-package sample.entity;
+package com.zlatamigas.imagereader.entity;
 
 import java.util.Objects;
 

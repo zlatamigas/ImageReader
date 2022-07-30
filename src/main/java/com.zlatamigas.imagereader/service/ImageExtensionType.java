@@ -1,4 +1,4 @@
-package sample.service;
+package com.zlatamigas.imagereader.service;
 
 import java.util.Arrays;
 import java.util.List;
